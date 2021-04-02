@@ -70,21 +70,11 @@ Follow the instructions supplied below.
 
 
 
-
-
-   \```bash
-
-
-
-   git clone https://github.com/andrasvaradi/Bucketbee_Server
+   `git clone https://github.com/andrasvaradi/Bucketbee_Server`
 
 
 
-   cd Bucketbee_Server
-
-
-
-   \```
+   `cd Bucketbee_Server`
 
 
 
@@ -96,15 +86,7 @@ Follow the instructions supplied below.
 
 
 
-   \```bash
-
-
-
-   npm install or npm i
-
-
-
-   \```
+   `npm install or npm i`  
 
 
 
@@ -116,7 +98,7 @@ Follow the instructions supplied below.
 
 
 
-\4. Run the server by either using [Nodemon](https://nodemon.io) or 'node index.js'
+\4. Run the server by either using [Nodemon](https://nodemon.io) or `node index.js`
 
 
 
@@ -164,4 +146,4 @@ Contributors:
 
 
 
-\-  Andras Varadi - [GitHub](https://github.com/andrasvaradi) - [LinkedIn](
+\- Andras Varadi - [GitHub](https://github.com/andrasvaradi) - [LinkedIn](www.linkedin.com/in/andrasvaradi)
